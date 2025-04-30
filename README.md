@@ -1,6 +1,7 @@
 # Ddos-arac-
 Bu Toolla Ddos atmak artık çok kolay :) Kullanımı aşırı basit ve güvenlige önem veren bir tooldur. Toolun kullanımı için Tor yüklemeniz gerekmektedir.
--Kurulum-
+
+## Kurulum
 1. Gerekli kütüphaneleri yükleyin:
 pip install pysocks colorama
 2. Tor'u başlatın:
