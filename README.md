@@ -7,6 +7,8 @@ pip install pysocks colorama
 2. Tor'u başlatın:
 tor
 3. Aracı çalıştırın:
+git clone https://github.com/ENTError/Ddos-araci.git
+cd Ddos-araci
 python ddos_araci.py
 - Ardından, prompt'lardan hedef IP, port ve süreyi girin.
 
